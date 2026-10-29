@@ -70,7 +70,7 @@ public class scrP_Movement : MonoBehaviour
         }
         //if can't walk, stop moving
         else { direction = Vector3.zero; }
-        rb.velocity = transform.TransformDirection(direction * speed * Time.fixedDeltaTime);
+        rb.linearVelocity = transform.TransformDirection(direction * speed * Time.fixedDeltaTime);
 
         //looking - can only look when screen not out
         if (canLook)
