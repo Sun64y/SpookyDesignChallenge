@@ -5,6 +5,7 @@ using UnityEngine;
 public class scrSoundManager : MonoBehaviour
 {
     public AudioClip music;
+    //collect stock sounds
     public AudioClip[] creepySounds;
     public AudioSource soundPlayer, musicPlayer;
     public float nextSound;
