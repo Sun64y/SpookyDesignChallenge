@@ -685,7 +685,7 @@ GameObject:
   - component: {fileID: 2350287390932682504}
   m_Layer: 3
   m_Name: objPlayer
-  m_TagString: Untagged
+  m_TagString: GoAway
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

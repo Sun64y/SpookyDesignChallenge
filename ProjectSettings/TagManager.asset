@@ -9,6 +9,7 @@ TagManager:
   - finalExit
   - Enemy
   - Dialogue
+  - GoAway
   layers:
   - Default
   - TransparentFX
