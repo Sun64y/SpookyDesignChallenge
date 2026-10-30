@@ -240,8 +240,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HidemonsterScript
   hideMonster: {fileID: 3627065175658634396}
-  audioSource: {fileID: 0}
-  hide: {fileID: 0}
+  audioSource: {fileID: 7252153215792030905}
+  hide: {fileID: 8300000, guid: a2527bfe7e15790439669d3ddb62d086, type: 3}
 --- !u!65 &4969220517128529897
 BoxCollider:
   m_ObjectHideFlags: 0
