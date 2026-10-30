@@ -46,8 +46,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 25a03626834449a4f81e6e2870315423, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  music: {fileID: 0}
-  creepySounds: []
+  music: {fileID: 8300000, guid: fa28ff36821acdb40a2784b30918a4dc, type: 3}
+  creepySounds:
+  - {fileID: 8300000, guid: bed506bb52429ca4eb65f70656515728, type: 3}
+  - {fileID: 8300000, guid: 25820689849ea724591ed3bae42603b7, type: 3}
+  - {fileID: 8300000, guid: 3c95d1abc8ee3bc498fae7f79ddaef09, type: 3}
+  - {fileID: 8300000, guid: 3eb2e37191b9ca4408b6e4a65417d00d, type: 3}
   soundPlayer: {fileID: 5460051325305048479}
   musicPlayer: {fileID: 8755332804086348847}
   nextSound: 0
@@ -63,7 +67,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 0c293101d7de2be4580b8b70b7b72944, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 0c293101d7de2be4580b8b70b7b72944, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.08
   m_Pitch: 1
@@ -159,7 +164,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: ff7fca8aa1fe4144c8acc23186a1dac3, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: ff7fca8aa1fe4144c8acc23186a1dac3, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.368
   m_Pitch: 1

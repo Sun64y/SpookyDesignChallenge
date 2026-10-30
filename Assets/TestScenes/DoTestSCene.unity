@@ -554,6 +554,36 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3159277135636068052, guid: 49814a85960c4a84da30ab5024e54a4f,
+        type: 3}
+      propertyPath: music
+      value: 
+      objectReference: {fileID: 8300000, guid: fa28ff36821acdb40a2784b30918a4dc, type: 3}
+    - target: {fileID: 3159277135636068052, guid: 49814a85960c4a84da30ab5024e54a4f,
+        type: 3}
+      propertyPath: creepySounds.Array.size
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3159277135636068052, guid: 49814a85960c4a84da30ab5024e54a4f,
+        type: 3}
+      propertyPath: 'creepySounds.Array.data[0]'
+      value: 
+      objectReference: {fileID: 8300000, guid: bed506bb52429ca4eb65f70656515728, type: 3}
+    - target: {fileID: 3159277135636068052, guid: 49814a85960c4a84da30ab5024e54a4f,
+        type: 3}
+      propertyPath: 'creepySounds.Array.data[1]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 25820689849ea724591ed3bae42603b7, type: 3}
+    - target: {fileID: 3159277135636068052, guid: 49814a85960c4a84da30ab5024e54a4f,
+        type: 3}
+      propertyPath: 'creepySounds.Array.data[2]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 3c95d1abc8ee3bc498fae7f79ddaef09, type: 3}
+    - target: {fileID: 3159277135636068052, guid: 49814a85960c4a84da30ab5024e54a4f,
+        type: 3}
+      propertyPath: 'creepySounds.Array.data[3]'
+      value: 
+      objectReference: {fileID: 8300000, guid: 3eb2e37191b9ca4408b6e4a65417d00d, type: 3}
     - target: {fileID: 8869869087395285810, guid: 49814a85960c4a84da30ab5024e54a4f,
         type: 3}
       propertyPath: m_Name
